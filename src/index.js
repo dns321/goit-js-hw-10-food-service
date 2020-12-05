@@ -1,1 +1,3 @@
-import './styles.css';
+import './styles.scss';
+import './js/marcup';
+import './js/theme';
